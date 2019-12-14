@@ -14,7 +14,8 @@ body {
 }
 
 .flex-container {
-    //display: flex;
+    display: flex;
+    background: #ffffff;
 }
 
 .box {
